@@ -1,0 +1,104 @@
+# Node.js / Express (Backend)
+
+# Dependency directories
+node_modules/
+npm-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Environment variable files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Build output
+dist/
+build/
+coverage/
+*.tgz
+
+# Temporary files
+temp/
+tmp/
+.cache/
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Operating system files
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+
+# Mac OS files
+.AppleDouble
+.LSOverride
+Icon
+
+# Linux swap files
+*~
+.*.swp
+
+# React (Frontend)
+
+# Dependency directories
+node_modules/
+npm-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Build output
+build/
+public/static/
+coverage/
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Environment variable files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Temporary files
+temp/
+tmp/
+.cache/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+
+# Mac OS files
+.AppleDouble
+.LSOverride
+Icon
+
+# Linux swap files
+*~
+.*.swp
